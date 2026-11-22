@@ -5,7 +5,7 @@ import { join } from "node:path";
 
 const TEXT =
   "The tide leaves one shell on her step each morning, never the same kind twice. " +
-  "She has stopped asking where they come from. " +
+  "She no longer asks where they come from. " +
   "She only wonders which one the sea will choose tomorrow — and whether it is choosing her, too.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
